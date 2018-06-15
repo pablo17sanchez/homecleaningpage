@@ -1,6 +1,6 @@
 <?php
 
-$to = "";  // Your email here
+$to = "info@gjcleaningsolutionscorp.com";  // Your email here
 $name = $_REQUEST['name'];
 $address = $_REQUEST['address'];
 $phone = $_REQUEST['phone'];
