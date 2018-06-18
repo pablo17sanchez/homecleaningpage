@@ -808,7 +808,7 @@
 					if (windowWidth < breakpoint + 1) {
 						carousel.slick({
 							mobileFirst: true,
-							slidesToShow: slidesToShow,
+							slidesToShow: 1,
 							slidesToScroll: slidesToScroll,
 							infinite: true,
 							autoplay: true,
