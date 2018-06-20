@@ -734,7 +734,7 @@
 						$gallerySlick.append($galleryIsotope.children().clone().removeAttr('style'));
 						$("#isotopeGalleryFilters").children().clone().appendTo("#slickGalleryFilters");
 						$gallerySlick.slick({
-							slidesToShow: 2,
+							slidesToShow: 1,
 							slidesToScroll: 1,
 							infinite: true,
 							dots: true,
